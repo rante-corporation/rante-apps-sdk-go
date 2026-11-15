@@ -1,0 +1,6 @@
+*.exe
+*.test
+*.out
+/nethttp
+.DS_Store
+Thumbs.db
